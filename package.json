@@ -1,0 +1,29 @@
+{
+  "name": "righto-series",
+  "version": "1.0.0",
+  "description": "[![Build Status](https://travis-ci.org/markwylde/righto-series.svg?branch=master)](https://travis-ci.org/markwylde/righto-series) [![David DM](https://david-dm.org/markwylde/righto-series.svg)](https://david-dm.org/markwylde/righto-series) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/markwylde/righto-series) [![GitHub package.json version](https://img.shields.io/github/package-json/v/markwylde/righto-series)](https://github.com/markwylde/righto-series/releases) [![GitHub](https://img.shields.io/github/license/markwylde/righto-series)](https://github.com/markwylde/righto-series/blob/master/LICENSE)",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markwylde/righto-series.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markwylde/righto-series/issues"
+  },
+  "homepage": "https://github.com/markwylde/righto-series#readme",
+  "dependencies": {
+    "righto": "^6.0.1"
+  },
+  "devDependencies": {
+    "tape": "^5.0.0"
+  }
+}
